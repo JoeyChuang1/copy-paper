@@ -1,0 +1,8 @@
+{"idx": 88, "question": "cause", "choice1": "He finished reading it.", "choice2": "It provoked him to think.", "label": 0, "premise": "The man closed the book."}
+{"idx": 338, "question": "cause", "choice1": "It was pasteurized.", "choice2": "I stored it in the refrigerator.", "label": 1, "premise": "The milk stayed cold."}
+{"idx": 158, "question": "effect", "choice1": "She excavated ancient artifacts.", "choice2": "She read about the site's history.", "label": 0, "premise": "The archeologist dug up the site."}
+{"idx": 241, "question": "effect", "choice1": "The machine powered on.", "choice2": "I ran out of laundry detergent.", "label": 0, "premise": "I put coins in the washing machine at the laundromat."}
+{"idx": 202, "question": "effect", "choice1": "He planted a variety of seeds.", "choice2": "He put fertilizer in the soil.", "label": 1, "premise": "The gardener wanted his plants to flourish."}
+{"idx": 237, "question": "effect", "choice1": "He manipulated his friend.", "choice2": "He admitted his indiscretion.", "label": 1, "premise": "The man had an attack of conscience."}
+{"idx": 75, "question": "cause", "choice1": "He got out of the car.", "choice2": "He approached the building.", "label": 1, "premise": "The man closed the umbrella."}
+{"idx": 341, "question": "cause", "choice1": "Her friend forgot to bring his lunch.", "choice2": "Her friend sat next to her at lunch.", "label": 0, "premise": "The girl shared her lunch with her friend."}

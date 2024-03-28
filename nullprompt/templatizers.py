@@ -235,6 +235,8 @@ class MultiTokenTemplatizer:
         """
         format_kwargs = format_kwargs.copy()
         budget = self._tokenizer.model_max_length
+        print(budget)
+        print(approximate_length)
         budget -= approximate_length
         budget -= self.num_trigger_tokens
         while True:

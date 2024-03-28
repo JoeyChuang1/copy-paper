@@ -1,0 +1,8 @@
+{"idx": 48, "question": "effect", "choice1": "It flung across the room.", "choice2": "It stretched.", "label": 1, "premise": "I pulled the rubber band."}
+{"idx": 39, "question": "effect", "choice1": "His hair turned gray.", "choice2": "He sold his belongings.", "label": 0, "premise": "The man grew old."}
+{"idx": 20, "question": "effect", "choice1": "The teacher corrected her.", "choice2": "The teacher dismissed her.", "label": 0, "premise": "The student misspelled the word."}
+{"idx": 21, "question": "cause", "choice1": "My heart pounded.", "choice2": "I took deep breaths.", "label": 1, "premise": "I regained composure from my fit of anger."}
+{"idx": 30, "question": "effect", "choice1": "The caller's phone lost reception.", "choice2": "The caller waited on the line.", "label": 1, "premise": "The secretary put the caller on hold."}
+{"idx": 43, "question": "effect", "choice1": "He left his assignment at home.", "choice2": "He brought his lunch to school.", "label": 0, "premise": "The student was in a rush to get to school on time."}
+{"idx": 99, "question": "effect", "choice1": "She engaged in small talk with her friend.", "choice2": "She told her friend to leave her alone.", "label": 1, "premise": "The woman was in a bad mood."}
+{"idx": 19, "question": "cause", "choice1": "She burned her finger on the toaster.", "choice2": "She put a diamond ring on her finger.", "label": 0, "premise": "The woman ran her finger under cold water."}
