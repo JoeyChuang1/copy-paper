@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Null Prompts
 
 [![ucinlp](https://circleci.com/gh/ucinlp/null-prompts.svg?style=svg)](https://app.circleci.com/pipelines/github/ucinlp/null-prompts)
@@ -113,3 +114,6 @@ If you use this codebase in your own research, please cite:
       primaryClass={cs.CL}
 }
 ```
+=======
+#This code entirely belongs https://github.com/ucinlp/null-prompts?tab=readme-ov-file, we are copying it to our local director to make some changes
+>>>>>>> e3ba758c375dbfb0e916b228a9a7ff38297528b3
